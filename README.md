@@ -29,9 +29,9 @@
 
 ## Запуск примеров
 
-node day1/home_work.js
-node day2/home_work.js
-node day3-4/home_work.js
+- node day1/home_work.js
+- node day2/home_work.js
+- node day3-4/home_work.js
 
 ## Автор
 Maksim Miroshnikov
