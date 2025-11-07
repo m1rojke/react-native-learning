@@ -35,4 +35,3 @@
 
 ## Автор
 Maksim Miroshnikov
-### День 3-4: Array Methods exercises
