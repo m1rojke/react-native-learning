@@ -35,3 +35,4 @@ node day3-4/home_work.js
 
 ## Автор
 Maksim Miroshnikov
+### День 3-4: Array Methods exercises
