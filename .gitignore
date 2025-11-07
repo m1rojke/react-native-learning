@@ -22,3 +22,6 @@ Thumbs.db
 .cache/
 dist/
 build/
+
+# Test files
+*.test.js
