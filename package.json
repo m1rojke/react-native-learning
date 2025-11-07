@@ -1,0 +1,12 @@
+{
+  "name": "react-learning",
+  "version": "1.0.0",
+  "description": "React and React Native learning course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["react", "learning", "javascript"],
+  "author": "Maksim Miroshnikov",
+  "license": "MIT"
+}
